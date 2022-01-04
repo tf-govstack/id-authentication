@@ -25,5 +25,4 @@
 \ir ddl/ida-partner_mapping.sql
 \ir ddl/ida-policy_data.sql
 \ir ddl/ida-misp_license_data.sql
-\ir ddl/ida-failed_message_store.sql
 \ir ddl/ida-anonymous_profile.sql
